@@ -1,0 +1,7 @@
+name: RTP
+version: '1.0-SNAPSHOT'
+main: net.serlith.rtp.RTP
+bootstrapper: net.serlith.rtp.RTPBootstrap
+api-version: '1.21'
+authors: [ Biquaternions ]
+website: https://serlith.net
